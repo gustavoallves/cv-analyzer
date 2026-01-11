@@ -1,0 +1,13 @@
+services:
+  db:
+    image: postgres:latest
+    container_name: cv_analyzer_container
+    env_file:
+      - .env
+    environment:
+      POSTGRES_DB: cv_analyzer_db
+      POSTGRES_USER: ${DB_USER}
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
+    ports:
+      - "5432:5432"
+    restart: always
