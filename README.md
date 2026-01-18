@@ -314,9 +314,3 @@ Feito por **Gustavo Alves**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-allves)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavoallves)
-
----
-
-<p align="center">
-  ⭐ Se este projeto te ajudou, deixe uma estrela! 
-</p>
