@@ -1,7 +1,7 @@
 # 📄 CV Analyzer
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-21-orange? style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21"/>
+  <img src="https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-3.3-brightgreen?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Spring%20AI-1.0-brightgreen?style=for-the-badge&logo=spring&logoColor=white" alt="Spring AI"/>
   <img src="https://img.shields.io/badge/Ollama-Llama%203.2-blue?style=for-the-badge&logo=meta&logoColor=white" alt="Ollama"/>
